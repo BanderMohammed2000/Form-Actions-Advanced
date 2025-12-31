@@ -1,6 +1,27 @@
 {
   "opinions": [
     {
+      "id": 1767135719592,
+      "votes": 1,
+      "userName": "bander",
+      "title": "Sooooooooo",
+      "body": "ssssssssssssssssssssss"
+    },
+    {
+      "id": 1767135358133,
+      "votes": -3,
+      "userName": "bander",
+      "title": "Subject",
+      "body": "sssssssssssssssssssss"
+    },
+    {
+      "id": 1767134362217,
+      "votes": 0,
+      "userName": "bander",
+      "title": "Subject",
+      "body": "This subject is good for learing"
+    },
+    {
       "id": 1,
       "userName": "Maximilian Schwarzmüller",
       "title": "Do yourself a favor and learn React!",
